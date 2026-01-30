@@ -20,6 +20,6 @@
                     III. Key Features of Travel Memory Management System
                     1. User Registration and Secure Password Storage:
                     The system provides user registration where user passwords are stored in encrypted format.
-                   <img width="1431" height="743" alt="image" src="https://github.com/user-attachments/assets/2d8a1645-2228-426d-8bdb-758ff84bbafd" />
+                    ![image alt](https://github.com/vangaveti-poojitha77/Travel_Memory/blob/0fd477c32e2b1e402c7858e1f94d5c9997093f42/Screenshot%202026-01-30%20104043.png)
 
                     
